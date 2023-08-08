@@ -92,7 +92,7 @@ We value your contributions to make this project even better! Whether you've dis
 
 If you've identified a bug or have a suggestion for a new feature, please consider the following steps:
 
-1. Check the [Issues](https://github.com/yourusername/your-forum-project/issues) section to see if the bug or feature has already been reported or discussed.
+1. Check the [Issues](https://github.com/dhaval73/IDiscuss/issues) section to see if the bug or feature has already been reported or discussed.
 
 2. If not, open a new issue:
    - Clearly describe the bug or feature you've observed or would like to see.
