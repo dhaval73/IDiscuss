@@ -8,13 +8,13 @@ Welcome to the Forum Website Project! This web application allows users to parti
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Importing the Database](#ImportDatabase)
-- [Running Your Forum](#RunningYourForum)
+  - [Importing the Database](#Importing-the-Database)
+- [Running Your Forum](#Running-Your-Forum)
 - [Usage](#usage)
 - [Contributing](#contributing)
-    - [Bug Reports and Feature Requests](#BugReportsandFeatureRequests)
-    - [Pull Requests](#PullRequests)
-    - [Code Style and Guidelines](#CodeStyleandGuidelines)
+    - [Bug Reports and Feature Requests](#Bug-Reports-and-Feature-Requests)
+    - [Pull Requests](#Pull-Requests)
+    - [Code Style and Guidelines](#Code-Style-and-Guidelines)
 
 <!-- - [License](#license) -->
 - [Contact](#contact)
@@ -88,7 +88,7 @@ Welcome to the Forum Website Project! This web application allows users to parti
 
 We value your contributions to make this project even better! Whether you've discovered a bug, have ideas for improvements, or want to introduce new features, we encourage your participation. To ensure a smooth collaboration process, please follow these guidelines:
 
-### BugReportsandFeatureRequests
+### Bug Reports and Feature Requests
 
 If you've identified a bug or have a suggestion for a new feature, please consider the following steps:
 
@@ -99,7 +99,7 @@ If you've identified a bug or have a suggestion for a new feature, please consid
    - Provide steps to reproduce the issue or a detailed explanation of the new feature.
    - Use descriptive and concise titles for your issues.
 
-### PullRequests
+### Pull Requests
 
 If you're ready to contribute directly to the project by addressing a bug or implementing a feature, follow these steps:
 
@@ -116,7 +116,7 @@ If you're ready to contribute directly to the project by addressing a bug or imp
    - Reference any related issues that your PR addresses or relates to.
    - Be prepared for feedback and be responsive to any suggestions or requests for modifications.
 
-### CodeStyleandGuidelines
+### Code Style and Guidelines
 
 - Adhere to the project's coding style and guidelines. Take a look at the existing codebase to understand the formatting and naming conventions.
 
